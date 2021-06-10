@@ -84,10 +84,10 @@
 <p><a href="https://github.com/sakshyam6969"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshyam6969&amp;layout=compact" alt="Top Langs"></a></p></div>  
   
 
-![](https://hit.yhype.me/github/profile?user_id=34748927)
+![](https://avatars.githubusercontent.com/u/73753258?v=4)
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/9ut5VfWN)
-## [**Youtube Channel Link **](https://discord.gg/9ut5VfWN)
+## [**DISCORD SUPPORT SERVER INVITE**](https://discord.com/invite/tVWrU5PWZV)
+## [**Youtube Channel Link**](https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ)
 
 # SUPPORT ME
 
