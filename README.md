@@ -57,16 +57,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/sakshyam6969" target="_blank">
+<a href="https://github.com/KabirJaipal" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/gang_bye" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ" target="_blank">
+<img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.gg/HxV5fcZPYZ" target="_blank">
-<img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Website style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.gg/HxV5fcZPYZ" target="_blank">
+<a href="https://discord.com/invite/tVWrU5PWZV" target="_blank">
 <img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=DiscordServer style="margin-bottom: 5px;" />
 </a>  
 </div>  
