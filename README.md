@@ -73,12 +73,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sakshyam6969&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KabirJaipal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/sakshyam6969"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshyam6969&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/KabirJaipal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabirJaipal&amp;layout=compact" alt="Top Langs"></a></p></div>  
   
 
 ![](https://avatars.githubusercontent.com/u/73753258?v=4)
