@@ -88,8 +88,3 @@
 
 # SUPPORT ME
 
-You can always Support me by inviting one of my **own Discord Bots**
-
-[![Calyso](https://cdn.discordapp.com/attachments/832881715662946334/840261900071731200/j6q11fCg_400x400.png)](https://discord.gg/9ut5VfWN)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/832881715662946334/840264061430136862/f1b78891507308fb76c0a66b56f4bcd6.png)
-
