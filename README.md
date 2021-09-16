@@ -73,17 +73,17 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KabirJaipal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kabirsingh2004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/KabirJaipal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabirJaipal&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/KabirJaipal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirsingh2004&amp;layout=compact" alt="Top Langs"></a></p></div>  
   
 
 ![](https://avatars.githubusercontent.com/u/73753258?v=4)
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://discord.com/invite/tVWrU5PWZV)
+## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/EMR5Bf6CwH)
 ## [**Youtube Channel Link**](https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ)
 
 # SUPPORT ME
