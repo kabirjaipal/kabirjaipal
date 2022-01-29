@@ -63,7 +63,7 @@
 <a href="https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ" target="_blank">
 <img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.com/invite/tVWrU5PWZV" target="_blank">
+<a href="https://discord.com/invite/PcUVWApWN3" target="_blank">
 <img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=DiscordServer style="margin-bottom: 5px;" />
 </a>  
 </div>  
