@@ -2,9 +2,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-Discord: `!  Krishnaᵈᵉᵛ#5254`
-
 <img src="https://discord.c99.nl/widget/theme-2/882481863661342770.png" alt="Discord"/>
+
+Discord: `!  Krishnaᵈᵉᵛ#5254`
 
 ### <div align="center">I'm Kabir Singh aka Tech Boy Gaming, </div>  
   
