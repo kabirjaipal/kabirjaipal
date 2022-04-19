@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kabir Jaipal</h1>
 <h3 align="center">A Web and Discord Bot Developer From India</h3>
 
-<img src="https://discord.c99.nl/widget/theme-2/882481863661342770.png" alt="Discord"/>
+<img align="center" src="https://discord.c99.nl/widget/theme-2/882481863661342770.png" alt="Discord"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirsingh2004&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsingh2004" /> </p>
 
@@ -35,6 +35,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirsingh2004&show_icons=true&locale=en&layout=compact" alt="kabirsingh2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirsingh2004&show_icons=true&locale=en" alt="kabirsingh2004" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kabirsingh2004&show_icons=true&locale=en" alt="kabirsingh2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirsingh2004&" alt="kabirsingh2004" /></p>
