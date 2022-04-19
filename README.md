@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with [Jugnu Music](https://github.com/kabirsingh2004/JUGNU-MUSIC)
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/PcUVWApWN3](https://discord.gg/PcUVWApWN3)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/kabirsingh2004)
 
 - 💬 Ask me about **Discord Bot Development and Web Developement**
 
-- 📫 How to reach me **https://discord.gg/PcUVWApWN3**
+- 📫 How to reach me [Discord Server](https://discord.gg/PcUVWApWN3)
 
 - ⚡ Fun fact **I am SuperHero from Earth**
 
