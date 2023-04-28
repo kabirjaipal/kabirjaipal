@@ -12,12 +12,12 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=kabirsingh2004&style=flat-square">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/kabirsingh2004?style=flat-square">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/kabirsingh2004?style=flat-square">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/kabirsingh2004?style=flat-square">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/kabirsingh2004?style=flat-square">
-  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/kabirsingh2004?style=flat-square">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=kabirsingh2004&style=flat-square&color=blueviolet">
+  <a href="https://github.com/kabirsingh2004?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/kabirsingh2004?style=flat-square&logo=github&logoColor=white&color=blueviolet"></a>
+  <a href="https://github.com/kabirsingh2004"><img alt="GitHub stars" src="https://img.shields.io/github/stars/kabirsingh2004?style=flat-square&logo=github&logoColor=white&color=blueviolet"></a>
+  <a href="https://github.com/kabirsingh2004"><img alt="GitHub forks" src="https://img.shields.io/github/forks/kabirsingh2004?style=flat-square&logo=github&logoColor=white&color=blueviolet"></a>
+  <a href="https://github.com/kabirsingh2004/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/kabirsingh2004?style=flat-square&logo=github&logoColor=white&color=blueviolet"></a>
+  <a href="https://github.com/kabirsingh2004/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/kabirsingh2004?style=flat-square&logo=github&logoColor=white&color=blueviolet"></a>
 </p>
 
 ## Skills
