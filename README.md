@@ -3,8 +3,8 @@
 <h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Kabir</a> - aka Firee Bird </h3>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-<a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+<a href="https://github.com/kabirsingh2004"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kabirsingh2004?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+<a href="https://github.com/kabirsingh2004"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 
 </p>
 
@@ -51,28 +51,28 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/kabirsingh2004/JUGNU-MUSIC"><b>JUGNU-MUSIC</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/JUGNU-MUSIC?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/JUGNU-MUSIC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kabirsingh2004/JUGNU-MUSIC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kabirsingh2004/JUGNU-MUSIC?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kabirsingh2004/JUGNU-Dashboard"><b>JUGNU-Dashboard</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/JUGNU-Dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/JUGNU-Dashboard?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kabirsingh2004/JUGNU-Dashboard?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kabirsingh2004/JUGNU-Dashboard?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kabirsingh2004/discordjs-base-handler"><b>Discord.JS Handler</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/discordjs-base-handler?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/discordjs-base-handler?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kabirsingh2004/discordjs-base-handler?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kabirsingh2004/discordjs-base-handler?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kabirsingh2004/Evil-Codes"><b>Evil-Codes</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Evil-Codes?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Evil-Codes?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kabirsingh2004/Evil-Codes?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kabirsingh2004/Evil-Codes?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kabirsingh2004/AI-Summarizer"><b>AI-Summarizer</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/AI-Summarizer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/AI-Summarizer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kabirsingh2004/AI-Summarizer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kabirsingh2004/AI-Summarizer?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -139,13 +139,13 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/kabirsingh2004/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/kabirsingh2004/github-readme-stats"><img alt="kabirsingh2004's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kabirsingh2004&show_icons=true&count_private=true&hide=" /></a>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/kabirsingh2004/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/kabirsingh2004/github-readme-stats"><img alt="kabirsingh2004's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirsingh2004&langs_count=10&layout=compact#" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
