@@ -3,10 +3,9 @@
 <h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Kabir</a> - aka Firee Bird </h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
-  <a href="https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
-  <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+<a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+<a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+
 </p>
 
 ## 📖 About me
@@ -35,7 +34,7 @@
   <a href="https://www.linkedin.com/in/kabir-jaipal-a1427223a/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://kabirjaipal.netlify.app/"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <a href="https://www.buymeacoffee.com/kabirjaipal"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ?sub_confirmation=1)
+<a href="https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ?sub_confirmation=1"><img alt="Youtube" title="Subscribe Fire Bird" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </p>
 
@@ -51,27 +50,27 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="hhttps://github.com/kabirsingh2004/JUGNU-MUSIC"><b>JUGNU-MUSIC</b></a></td>
+      <td><a href="https://github.com/kabirsingh2004/JUGNU-MUSIC"><b>JUGNU-MUSIC</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/JUGNU-MUSIC?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/JUGNU-MUSIC?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="hhttps://github.com/kabirsingh2004/JUGNU-Dashboard"><b>JUGNU-Dashboard</b></a></td>
+      <td><a href="https://github.com/kabirsingh2004/JUGNU-Dashboard"><b>JUGNU-Dashboard</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/JUGNU-Dashboard?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/JUGNU-Dashboard?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="hhttps://github.com/kabirsingh2004/discordjs-base-handler"><b>Discord.JS Handler</b></a></td>
+      <td><a href="https://github.com/kabirsingh2004/discordjs-base-handler"><b>Discord.JS Handler</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/discordjs-base-handler?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/discordjs-base-handler?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="hhttps://github.com/kabirsingh2004/Evil-Codes"><b>Evil-Codes</b></a></td>
+      <td><a href="https://github.com/kabirsingh2004/Evil-Codes"><b>Evil-Codes</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Evil-Codes?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Evil-Codes?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="hhttps://github.com/kabirsingh2004/AI-Summarizer"><b>AI-Summarizer</b></a></td>
+      <td><a href="https://github.com/kabirsingh2004/AI-Summarizer"><b>AI-Summarizer</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/AI-Summarizer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/AI-Summarizer?style=flat-square&labelColor=343b41"/></td>
     </tr>
