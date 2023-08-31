@@ -31,10 +31,10 @@
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kabir-jaipal-a1427223a/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://kabirjaipal.netlify.app/"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kabir-jaipal-a1427223a/"><img alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://kabirjaipal.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify"></a>
 <a href="https://www.buymeacoffee.com/kabirjaipal"><img alt="Ko-fi" title="By me a coffee" src="https://skillicons.dev/icons?i=coffeescript"/></a>
-<a href="https://www.instagram.com/iam_kabirjaipal"><img alt="instagram" title="Follow" src="https://skillicons.dev/icons?i=instagram"/>Follow</a>
+<a href="https://www.instagram.com/iam_kabirjaipal"><img alt="instagram" title="Follow" src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
 ## 📘 My top open source projects
