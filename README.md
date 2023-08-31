@@ -109,8 +109,8 @@
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://skillicons.dev/icons?i=mysql" /></a>
             </td>
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://skillicons.dev/icons?i=github" /></a>
+            <td><a href="#"><img alt="MongoDB" title="MongoDB" height="28px"
+                        src="https://skillicons.dev/icons?i=mongodb" /></a>
             </td>
            <td><a href="#"><img alt="ReactJS" title="ReactJS" height="28px"
                         src="https://skillicons.dev/icons?i=react" /></a>
@@ -128,6 +128,9 @@
                         src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
             <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
                         src="https://i.imgur.com/UfBWFbP.png" /></a></td>
+           <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
+                        src="https://skillicons.dev/icons?i=github" /></a>
+            </td>
         </tr>
     </tbody>
 
