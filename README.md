@@ -112,6 +112,12 @@
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://skillicons.dev/icons?i=github" /></a>
             </td>
+           <td><a href="#"><img alt="ReactJS" title="ReactJS" height="28px"
+                        src="https://skillicons.dev/icons?i=react" /></a>
+            </td>
+           <td><a href="#"><img alt="NextJS" title="NextJS" height="28px"
+                        src="https://skillicons.dev/icons?i=nextjs" /></a>
+            </td>
         </tr>
         <tr>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
