@@ -20,8 +20,8 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/kabirsingh2004/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabirsingh2004#version3"/>
+  <a href="https://github.com/kabirsingh2004">
+    <img src="https://streak-stats.demolab.com/?user=kabirsingh2004"/>
   </a>
 </p>
 
