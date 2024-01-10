@@ -20,8 +20,8 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/kabirsingh2004">
-    <img src="https://streak-stats.demolab.com/?user=kabirsingh2004&theme=blueberry" alt="GitHub Streak" loading="lazy" />
+  <a href="https://streak-stats.demolab.com/?user=DenverCoder1&theme=blueberry">
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=blueberry" alt="GitHub Streak" />
   </a>
 </p>
 
