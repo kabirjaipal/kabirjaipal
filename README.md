@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Kabir</a> - aka Fire Bird </h3>
+<h3 align="center">Hey there, I'm <a href="https://bit.ly/kabirjaipal">Kabir Jaipal</a></h3>
 
 <p align="center">
 <a href="https://github.com/kabirsingh2004"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kabirsingh2004?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -10,144 +10,94 @@
 
 ## 📖 About me
 
-- 💻 I'm a Full Stack Developer
-- 🎨 I'm a self-taught Discord Bot Developer
-- 📱 I make website using reactjs and tailwind css etc
-- 🎓 I'm a Computer Science student (pursuing BCA)
-- 🌐 You can see some of my projects on [my portfolio](https://kabirjaipal.netlify.app/)
-- 📺 I make development and tech tutorials on [YouTube](https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ)
+```js
+{
+    name: "Kabir Jaipal",
+    age: 20,
+    location: "India",
+    role : "Full Stack Developer",
+    degree : "BCA",
+    portfolio : "https://bit.ly/kabirjaipal"
+}
+```
 
-## 🔥 My contribution streak
+#
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com/?user=kabirsingh2004&theme=blueberry">
-    <img src="https://streak-stats.demolab.com/?user=kabirsingh2004&theme=blueberry" alt="GitHub Streak" />
-  </a>
+<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirsingh2004&theme=github-dark-dimmed&hide_border=true"/>
 </p>
-
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/kabirsingh2004?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 ## 🙋‍♂️ Connect with me:
 
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kabirjaipal"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kabirjaipal.netlify.app/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.buymeacoffee.com/kabirjaipal"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
+  <a href="https://www.instagram.com/kabirjaipal"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
+
+## 📘 Top Projects
+
+<div style="display: flex; flex-wrap: wrap; gap : 1rem;">
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kabir-jaipal-a1427223a/"><img alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://kabirjaipal.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify"></a>
-<a href="https://www.buymeacoffee.com/kabirjaipal"><img alt="Ko-fi" title="By me a coffee" src="https://skillicons.dev/icons?i=coffeescript"/></a>
-<a href="https://www.instagram.com/iam_kabirjaipal"><img alt="instagram" title="Follow" src="https://skillicons.dev/icons?i=instagram"/></a>
+    <a href="https://github.com/kabirsingh2004/JUGNU-MUSIC"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=JUGNU-MUSIC&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="JUGNU-MUSIC"></a>
 </p>
-
-## 📘 My top open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/kabirsingh2004/JUGNU-MUSIC"><b>JUGNU-MUSIC</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kabirsingh2004/JUGNU-MUSIC?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kabirsingh2004/JUGNU-MUSIC?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kabirsingh2004/JUGNU-Dashboard"><b>JUGNU-Dashboard</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kabirsingh2004/JUGNU-Dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kabirsingh2004/JUGNU-Dashboard?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kabirsingh2004/discordjs-base-handler"><b>Discord.JS Handler</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kabirsingh2004/discordjs-base-handler?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kabirsingh2004/discordjs-base-handler?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kabirsingh2004/Evil-Codes"><b>Evil-Codes</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kabirsingh2004/Evil-Codes?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kabirsingh2004/Evil-Codes?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kabirsingh2004/AI-Summarizer"><b>AI-Summarizer</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kabirsingh2004/AI-Summarizer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kabirsingh2004/AI-Summarizer?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
 <p align="left">
-  <a href="https://github.com/kabirsingh2004?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+    <a href="https://github.com/kabirsingh2004/JUGNU-Dashboard"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=JUGNU-Dashboard&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="JUGNU-Dashboard"></a>
 </p>
+<p align="left">
+    <a href="https://github.com/kabirsingh2004/discordjs-base-handler"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=discordjs-base-handler&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Discord.JS Handler"></a>
+</p>
+<p align="left">
+    <a href="https://github.com/kabirsingh2004/Evil-Codes"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=Evil-Codes&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Evil-Codes"></a>
+</p>
+<p align="left">
+    <a href="https://github.com/kabirsingh2004/AI-Summarizer"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=AI-Summarizer&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="AI-Summarizer"></a>
+</p>
+</div>
 
-## 👨‍💻 Languages and Tools:
+#
 
-<table>
-    <tbody>
-        <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
-                        src="https://skillicons.dev/icons?i=js" /></a>
-            </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
-                        src="https://skillicons.dev/icons?i=html" /></a>
-            </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
-                        src="https://skillicons.dev/icons?i=css" /></a>
-            </td>
-            <td><a href="#"><img alt="PHP" title="PHP" height="28px"
-                        src="https://skillicons.dev/icons?i=php" /></a>
-            </td>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://skillicons.dev/icons?i=py" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
-                        src="https://skillicons.dev/icons?i=nodejs" /></a>
-            </td>
-            <td><a href="#"><img alt="SQL" title="SQL" height="28px"
-                        src="https://skillicons.dev/icons?i=mysql" /></a>
-            </td>
-            <td><a href="#"><img alt="MongoDB" title="MongoDB" height="28px"
-                        src="https://skillicons.dev/icons?i=mongodb" /></a>
-            </td>
-           <td><a href="#"><img alt="ReactJS" title="ReactJS" height="28px"
-                        src="https://skillicons.dev/icons?i=react" /></a>
-            </td>
-           <td><a href="#"><img alt="NextJS" title="NextJS" height="28px"
-                        src="https://skillicons.dev/icons?i=nextjs" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
-                        src="https://skillicons.dev/icons?i=vscode" /></a></td>
-              <td><a href="#"><img alt="C++" title="C++" height="28px"
-                        src="https://skillicons.dev/icons?i=cpp" /></a></td>
-            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
-           <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://skillicons.dev/icons?i=github" /></a>
-            </td>
-        </tr>
-    </tbody>
+### Frontend Skills:
 
-</table>
+<div style="display: flex; flex-wrap: wrap; gap:1rem">
+    <img alt="HTML" title="HTML" src="https://skillicons.dev/icons?i=html" />
+    <img alt="CSS" title="CSS" src="https://skillicons.dev/icons?i=css" />
+    <img alt="JavaScript" title="JavaScript" src="https://skillicons.dev/icons?i=js" />
+    <img alt="TypeScript" title="TypeScript" src="https://skillicons.dev/icons?i=ts" />
+    <img alt="nextjs" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
+    <img alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
+    <img alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
+    <img alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
+    <img alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+</div>
+
+### Backend Skills:
+
+<div style="display: flex; flex-wrap: wrap; gap:1rem">
+    <img alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+    <img alt="express" title="express" src="https://skillicons.dev/icons?i=express" />
+    <img alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
+    <img alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
+</div>
+
+### Other Tools:
+
+<div style="display: flex; flex-wrap: wrap; gap:1rem">
+    <img alt="discordjs" title="discordjs" src="https://skillicons.dev/icons?i=discordjs" />
+    <img alt="aws" title="aws" src="https://skillicons.dev/icons?i=aws" />
+    <img alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
+    <img alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
+
+</div>
+
+## Trophies
+
+<a href="https://github.com/kabirsingh2004">
+<img src="https://github-profile-trophy.vercel.app/?username=kabirsingh2004&row=4&theme=onedark&no-frame=true"/>
+</a>
 
 ## 📈 Github Stats
 
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/kabirsingh2004/github-readme-stats"><img alt="kabirsingh2004's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kabirsingh2004&show_icons=true&count_private=true&hide=" /></a>
-</details>
-
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/kabirsingh2004/github-readme-stats"><img alt="kabirsingh2004's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirsingh2004&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=kabirsingh2004&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
