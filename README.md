@@ -5,7 +5,10 @@
 <p align="center">
 <a href="https://github.com/kabirsingh2004"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kabirsingh2004?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 <a href="https://github.com/kabirsingh2004"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+</p>
 
+<p align="center">
+<img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
 </p>
 
 ## 📖 About me
@@ -21,12 +24,6 @@
 }
 ```
 
-#
-
-<p align="center">
-<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirsingh2004&theme=github-dark-dimmed&hide_border=true"/>
-</p>
-
 ## 🙋‍♂️ Connect with me:
 
 <div align="center">
@@ -39,22 +36,22 @@
 
 ## 📘 Top Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-<p align="left">
-    <a href="https://github.com/kabirsingh2004/JUGNU-MUSIC"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=JUGNU-MUSIC&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="JUGNU-MUSIC"></a>
-</p>
-<p align="left">
-    <a href="https://github.com/kabirsingh2004/JUGNU-Dashboard"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=JUGNU-Dashboard&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="JUGNU-Dashboard"></a>
-</p>
-<p align="left">
-    <a href="https://github.com/kabirsingh2004/discordjs-base-handler"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=discordjs-base-handler&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Discord.JS Handler"></a>
-</p>
-<p align="left">
-    <a href="https://github.com/kabirsingh2004/Evil-Codes"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=Evil-Codes&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Evil-Codes"></a>
-</p>
-<p align="left">
-    <a href="https://github.com/kabirsingh2004/AI-Summarizer"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=AI-Summarizer&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="AI-Summarizer"></a>
-</p>
+<div>
+<span align="left">
+    <a href="https://github.com/kabirsingh2004/JUGNU-MUSIC"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=JUGNU-MUSIC&hide_border=true&theme=github_dark" alt="JUGNU-MUSIC"></a>
+</span>
+<span align="left">
+    <a href="https://github.com/kabirsingh2004/JUGNU-Dashboard"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=JUGNU-Dashboard&hide_border=true&theme=github_dark" alt="JUGNU-Dashboard"></a>
+</span>
+<span align="left">
+    <a href="https://github.com/kabirsingh2004/discordjs-base-handler"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=discordjs-base-handler&hide_border=true&theme=github_dark" alt="Discord.JS Handler"></a>
+</span>
+<span align="left">
+    <a href="https://github.com/kabirsingh2004/Evil-Codes"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=Evil-Codes&hide_border=true&theme=github_dark" alt="Evil-Codes"></a>
+</span>
+<span align="left">
+    <a href="https://github.com/kabirsingh2004/AI-Summarizer"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=AI-Summarizer&hide_border=true&theme=github_dark" alt="AI-Summarizer"></a>
+</span>
 </div>
 
 #
@@ -95,9 +92,15 @@
 ## Trophies
 
 <a href="https://github.com/kabirsingh2004">
-<img src="https://github-profile-trophy.vercel.app/?username=kabirsingh2004&row=4&theme=onedark&no-frame=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kabirsingh2004&row=4&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
 </a>
+
+## 🔥 Github Streaks
+
+<p align="center">
+<img style="width:100%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirsingh2004&theme=github-dark-dimmed&hide_border=true"/>
+</p>
 
 ## 📈 Github Stats
 
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=kabirsingh2004&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=kabirsingh2004&theme=github_dark_dimmed&custom_title=GitHub+Stats&hide_border=true"/>
