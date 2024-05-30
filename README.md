@@ -11,7 +11,7 @@
 <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
 </p>
 
-## 📖 About me
+### 📖 About me
 
 ```js
 {
@@ -24,7 +24,9 @@
 }
 ```
 
-## 🙋‍♂️ Connect with me:
+#
+
+### 🙋‍♂️ Connect with me:
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -34,7 +36,9 @@
   <a href="https://www.instagram.com/kabirjaipal"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
-## 📘 Top Projects
+#
+
+### 📘 Top Projects
 
 <div>
 <span align="left">
@@ -47,11 +51,21 @@
     <a href="https://github.com/kabirsingh2004/discordjs-base-handler"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=discordjs-base-handler&hide_border=true&theme=github_dark" alt="Discord.JS Handler"></a>
 </span>
 <span align="left">
-    <a href="https://github.com/kabirsingh2004/Evil-Codes"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=Evil-Codes&hide_border=true&theme=github_dark" alt="Evil-Codes"></a>
-</span>
-<span align="left">
     <a href="https://github.com/kabirsingh2004/AI-Summarizer"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=AI-Summarizer&hide_border=true&theme=github_dark" alt="AI-Summarizer"></a>
 </span>
+<span align="left">
+    <a href="https://github.com/kabirsingh2004/real-giveaway"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=real-giveaways&hide_border=true&theme=github_dark" alt="real giveaways"></a>
+</span>
+<span align="left">
+    <a href="https://github.com/kabirsingh2004/Sanatani-Bot"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=Sanatani-Bot&hide_border=true&theme=github_dark" alt="Sanatani Bot"></a>
+</span>
+<span align="left">
+    <a href="https://github.com/kabirsingh2004/Food-For-All"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=Food-For-All&hide_border=true&theme=github_dark" alt="Food-For-All"></a>
+</span>
+<span align="left">
+    <a href="https://github.com/kabirsingh2004/Password-Manager"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kabirsingh2004&repo=Password-Manager&hide_border=true&theme=github_dark" alt="Password-Manager"></a>
+</span>
+
 </div>
 
 #
@@ -89,18 +103,22 @@
 
 </div>
 
-## Trophies
+#
+
+### Trophies
 
 <a href="https://github.com/kabirsingh2004">
     <img src="https://github-profile-trophy.vercel.app/?username=kabirsingh2004&row=4&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
 </a>
 
-## 🔥 Github Streaks
+#
 
-<p align="center">
 <img style="width:100%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirsingh2004&theme=github-dark-dimmed&hide_border=true"/>
-</p>
 
-## 📈 Github Stats
+#
 
 <img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=kabirsingh2004&theme=github_dark_dimmed&custom_title=GitHub+Stats&hide_border=true"/>
+
+#
+
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirsingh2004&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact"/>
