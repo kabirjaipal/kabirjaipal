@@ -20,7 +20,7 @@
     location: "India",
     role : "Full Stack Developer",
     degree : "BCA",
-    portfolio : "https://bit.ly/kabirjaipal"
+    portfolio : "kabirjaipal.me"
 }
 ```
 
