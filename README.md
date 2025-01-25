@@ -27,7 +27,7 @@
 #
 
 <div align="center">
-<a href="https://app.daily.dev/kabirjaipal"><img src="https://api.daily.dev/devcards/v2/35qUasbBrnuObCMSEptPN.png?type=default&r=1b2" width="356" alt="Kabir Jaipal's Dev Card"/></a>
+<a href="https://app.daily.dev/kabirjaipal"><img src="https://api.daily.dev/devcards/v2/35qUasbBrnuObCMSEptPN.png?type=wide&r=1b2" width="652" alt="Kabir Jaipal's Dev Card"/></a>
 </div>
 
 #
